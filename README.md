@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="./src/imagens/logo-marvel.png" width="100" />
+  <img alt="Logo" src="./src/imagens/logo-marvel.png" width="100"/>
 </div>
 <h1 align="center">
   Matías Ezequiel Correa - Projeto "Seleção Marvel"
